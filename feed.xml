@@ -3,30 +3,29 @@
     <title>MKStuart</title>
     <link href="https://nigelzin.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://nigelzin.github.io/gh-pages" />
-    <updated>2019-11-07T19:42:16-02:00</updated>
+    <updated>2019-11-07T19:43:30-02:00</updated>
     <author>
         <name>Maikel Stuart</name>
     </author>
     <id>https://nigelzin.github.io/gh-pages</id>
 
     <entry>
-        <title>Teste de Post</title>
+        <title>Novo teste</title>
         <author>
             <name>Maikel Stuart</name>
         </author>
-        <link href="https://nigelzin.github.io/gh-pages/teste-de-post.html"/>
-        <id>https://nigelzin.github.io/gh-pages/teste-de-post.html</id>
+        <link href="https://nigelzin.github.io/gh-pages/novo-teste.html"/>
+        <id>https://nigelzin.github.io/gh-pages/novo-teste.html</id>
 
-        <updated>2019-11-07T19:30:39-02:00</updated>
+        <updated>2019-11-07T19:43:25-02:00</updated>
             <summary>
                 <![CDATA[
-                    E ai jovens, zalebe? Teste e vamos ver o que acontece.
+                    Agora vai
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>E ai jovens, zalebe? </p>
-<p>Teste e vamos ver o que acontece.</p>
+                Agora vai
             ]]>
         </content>
     </entry>
