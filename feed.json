@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MKStuart",
+    "description": "",
+    "home_page_url": "https://nigelzin.github.io/gh-pages",
+    "feed_url": "https://nigelzin.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Maikel Stuart"
+    },
+    "items": [
+        {
+            "id": "https://nigelzin.github.io/gh-pages/teste-de-post.html",
+            "url": "https://nigelzin.github.io/gh-pages/teste-de-post.html",
+            "title": "Teste de Post",
+            "summary": "E ai jovens, zalebe? Teste e vamos ver o que acontece.",
+            "content_html": "<p>E ai jovens, zalebe? </p>\n<p>Teste e vamos ver o que acontece.</p>",
+            "author": {
+                "name": "Maikel Stuart"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-07T19:30:39-02:00",
+            "date_modified": "2019-11-07T19:30:39-02:00"
+        }
+    ]
+}
